@@ -1,0 +1,13 @@
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.exe
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.deps.json
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.runtimeconfig.json
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.runtimeconfig.dev.json
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.dll
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\bin\Debug\netcoreapp3.1\Multi-threading.pdb
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.csprojAssemblyReference.cache
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.AssemblyInfoInputs.cache
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.AssemblyInfo.cs
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.dll
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.pdb
+D:\Dev\C#\Quest\Multi-threading\Multi-threading\obj\Debug\netcoreapp3.1\Multi-threading.genruntimeconfig.cache
